@@ -8,7 +8,7 @@ common kernel / vmware-modconfig problems and potential fixes
 - https://github.com/aircrack-ng/rtl8188eus/issues/263
 
 # vmmon or vmnet compile error fix (16.x.x - 17.x.x)
-Modify the below script for your EXACT version you're attempting to install, specifically line `git checkout workstation-16.2.3`
+Modify the below script for your EXACT version you're attempting to install, specifically line `git checkout workstation-16.2.3` then run it
 ```
 cd /usr/lib/vmware/modules/source
 git clone https://github.com/mkubecek/vmware-host-modules
