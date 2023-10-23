@@ -50,3 +50,5 @@ likely not going to be a fix, see:
 
 its really not worth messing with, just use 16+
 
+# enable copy and paste esxi / vcenter
+- https://communities.vmware.com/t5/VMware-vSphere-Discussions/Enable-copy-paste-globally-ESXi-and-VCSA-v6-7/td-p/1869486
